@@ -1,1 +1,1 @@
- a non empty read me
+script that prints the absolute path name of the working directory
